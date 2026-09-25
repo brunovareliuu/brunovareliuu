@@ -1,31 +1,30 @@
-<img alt="Bruno Varela: Developer + IA sin enredos. Fundador de Vareliuu, estudio de software en Monterrey, México" src="banner.png" width="100%">
+<img alt="Bruno Varela: Developer + AI, untangled. Founder of Vareliuu, a software studio in Monterrey, Mexico" src="banner.png" width="100%">
 
-## Hola, soy Bruno 👋
+## Hi, I'm Bruno 👋
 
-Fundé **[Vareliuu](https://vareliuu.com)**, un estudio de software en Monterrey 🇲🇽. Hago webs,
-apps y sistemas a la medida para negocios, de la idea a producción en unas semanas. En Instagram
-comparto **IA sin enredos**: cómo construyo con Claude y otras herramientas, sin humo.
+I founded **[Vareliuu](https://vareliuu.com)**, a software studio in Monterrey, Mexico 🇲🇽. I build
+websites, apps and custom software for businesses, from idea to production in a few weeks. On
+Instagram I share **AI, untangled** (in Spanish): how I build with Claude and other tools, no hype.
 
-- 🔭 **Ahora:** [Chatty](https://github.com/brunovareliuu/chatty), tu propio ManyChat para Instagram, open source.
-- 🛠️ **Con qué:** React, Next.js y TypeScript sobre Firebase; apps móviles con Expo.
-- 🤖 **Cómo:** con IA todos los días, del diseño al despliegue.
-- 💬 **Dónde:** [vareliuu.com](https://vareliuu.com) · [Instagram](https://www.instagram.com/brunovareliuu)
+- 🔭 **Now:** [Chatty](https://github.com/brunovareliuu/chatty), your own ManyChat for Instagram, open source.
+- 🛠️ **Stack:** React, Next.js and TypeScript on Firebase; mobile apps with Expo.
+- 🤖 **How:** with AI every day, from design to deploy.
+- 💬 **Where:** [vareliuu.com](https://vareliuu.com) · [Instagram](https://www.instagram.com/brunovareliuu)
 
 ## Open source
 
 <a href="https://github.com/brunovareliuu/chatty">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunovareliuu/chatty/main/docs/imagenes/banner-oscuro.png">
-    <img alt="Chatty: tu propio ManyChat para Instagram" src="https://raw.githubusercontent.com/brunovareliuu/chatty/main/docs/imagenes/banner-claro.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="chatty-oscuro.png">
+    <img alt="Chatty: your own ManyChat for Instagram" src="chatty-claro.png" width="100%">
   </picture>
 </a>
 
-**[Chatty](https://github.com/brunovareliuu/chatty)**: la bandeja de tus DMs, automatizaciones por
-palabra clave, un constructor visual de flujos y las estadísticas de tu Instagram, en **tu**
-Firebase. Se abre en modo guía, sin configurar nada, y te lleva paso a paso hasta dejarlo
-funcionando.
+**[Chatty](https://github.com/brunovareliuu/chatty)**: an inbox for your DMs, keyword automations,
+a visual flow builder and your Instagram analytics, on **your** Firebase. It opens in guided mode
+with nothing configured and walks you step by step until it's live.
 
-## Con qué trabajo
+## Tech I use
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -42,5 +41,5 @@ funcionando.
 ---
 
 <p align="center">
-  <b>¿Tienes un proyecto en mente?</b> <a href="https://vareliuu.com/cotizar">Cotízalo en vareliuu.com</a> ↗
+  <b>Got a project in mind?</b> <a href="https://vareliuu.com/cotizar">Get a quote at vareliuu.com</a> ↗
 </p>
