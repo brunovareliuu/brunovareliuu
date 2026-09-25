@@ -25,12 +25,6 @@ palabra clave, un constructor visual de flujos y las estadísticas de tu Instagr
 Firebase. Se abre en modo guía, sin configurar nada, y te lleva paso a paso hasta dejarlo
 funcionando.
 
-<p align="center">
-  <a href="https://github.com/brunovareliuu/chatty">
-    <img alt="El logo de Vareliuu con cinturón de campeón en un ring de box, y el de ManyChat noqueado en la lona" src="chatty-ko.jpg" width="420">
-  </a>
-</p>
-
 ## Con qué trabajo
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
