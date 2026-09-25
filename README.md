@@ -39,20 +39,6 @@ funcionando.
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
-## Trabajo reciente
-
-| Proyecto | Qué es | Con qué |
-|---|---|---|
-| **[ALFRANET](https://alfranet.com)** | Plataforma para vender y administrar cursos de manufactura esbelta, con planes y pagos | React · Firebase · Stripe · Gemini |
-| **[Alfra Group](https://alfragroup.com)** | Sitio corporativo bilingüe de seis unidades de negocio, con su propio administrador | React · Firebase · GSAP |
-| **[MoboParts](https://moboparts.com)** | Catálogo de refacciones hidráulicas y el panel donde lo administran | Next.js · Firebase |
-| **[WedNer](https://wednermx.com)** | Plataforma para organizar bodas, con un panel para novios, planner y proveedores | Next.js · Supabase · Claude |
-| **[Nichtarm](https://nichtarm.com)** | App de finanzas personales para iOS y Android | Expo · React Native · Firebase |
-| **[Aromali](https://aromali.com.mx)** | Sitio de restaurante: carta, galería, eventos y sucursales | React · Firebase |
-| **[T-Lobordo](https://t-lobordo.com)** | Sitio de una fábrica de bordado y estampado, con catálogos y cotización | React · Firebase |
-
-Todos los proyectos, con capturas: **[vareliuu.com](https://vareliuu.com)**.
-
 ---
 
 <p align="center">
