@@ -6,35 +6,9 @@ I founded **[Vareliuu](https://vareliuu.com)**, a software studio in Monterrey, 
 websites, apps and custom software for businesses, from idea to production in a few weeks. On
 Instagram I share **AI, untangled** (in Spanish): how I build with Claude and other tools, no hype.
 
-- 🔭 **Now:** [inspo](https://github.com/brunovareliuu/inspo), design research that ends in a built page, inside Claude Code; and [Chatty](https://github.com/brunovareliuu/chatty), your own ManyChat for Instagram. Both open source.
 - 🛠️ **Stack:** React, Next.js and TypeScript on Firebase; mobile apps with Expo.
 - 🤖 **How:** with AI every day, from design to deploy.
 - 💬 **Where:** [vareliuu.com](https://vareliuu.com) · [Instagram](https://www.instagram.com/brunovareliuu)
-
-## Open source
-
-<a href="https://github.com/brunovareliuu/inspo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="inspo-oscuro.png">
-    <img alt="inspo: design research turned into a built page, inside Claude Code" src="inspo-claro.png" width="100%">
-  </picture>
-</a>
-
-**[inspo](https://github.com/brunovareliuu/inspo)**: tell Claude your idea and it gathers about 50
-references for every section of your page, mostly from your industry, renders it in several styles
-with real photos, opens a board where you vote on everything, and builds the page. A Claude Code
-plugin for websites, web systems and mobile apps.
-
-<a href="https://github.com/brunovareliuu/chatty">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="chatty-oscuro.png">
-    <img alt="Chatty: your own ManyChat for Instagram" src="chatty-claro.png" width="100%">
-  </picture>
-</a>
-
-**[Chatty](https://github.com/brunovareliuu/chatty)**: an inbox for your DMs, keyword automations,
-a visual flow builder and your Instagram analytics, on **your** Firebase. It opens in guided mode
-with nothing configured and walks you step by step until it's live.
 
 ## Tech I use
 
