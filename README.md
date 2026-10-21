@@ -1,8 +1,8 @@
-<img alt="Bruno Varela: Developer + AI, untangled. Founder of Vareliuu, a software studio in Monterrey, Mexico" src="banner.png" width="100%">
+<img alt="Bruno Varela: Developer + AI, untangled. Founder of Vareliuu, a custom software studio" src="banner.png" width="100%">
 
 ## Hi, I'm Bruno 👋
 
-I founded **[Vareliuu](https://vareliuu.com)**, a software studio in Monterrey, Mexico 🇲🇽. I build
+I founded **[Vareliuu](https://vareliuu.com)**, a custom software studio from Mexico 🇲🇽. I build
 websites, apps and custom software for businesses, from idea to production in a few weeks. On
 Instagram I share **AI, untangled** (in Spanish): how I build with Claude and other tools, no hype.
 
