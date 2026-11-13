@@ -1,0 +1,36 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1280px;height:400px;background:#0b0b0c;overflow:hidden}
+body{font-family:-apple-system,"SF Pro Display",system-ui,sans-serif;color:#f5f5f4;-webkit-font-smoothing:antialiased;position:relative}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:48px 48px;
+ -webkit-mask-image:radial-gradient(120% 100% at 30% 50%,#000 30%,transparent 85%)}
+.glow{position:absolute;inset:0;background:radial-gradient(60% 90% at 28% 105%, rgba(250,76,3,.30), transparent 70%)}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,monospace}
+.ser{font-family:ui-serif,"New York",Georgia,serif;font-style:italic;font-weight:500}
+
+.izq{position:absolute;left:64px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center;gap:0}
+.kicker{font-size:12.5px;letter-spacing:.18em;color:rgba(245,245,244,.62);display:flex;align-items:center;gap:10px}
+.kicker i{width:7px;height:7px;border-radius:50%;background:#fa4c03;box-shadow:0 0 12px #fa4c03}
+h1{font-size:84px;font-weight:800;letter-spacing:-.045em;line-height:1;margin:22px 0 12px}
+h2{font-size:36px;font-weight:700;letter-spacing:-.025em;color:#f5f5f4}
+h2 .ser{color:#fa4c03;font-size:40px;letter-spacing:-.01em}
+.pie{margin-top:30px;font-size:12px;letter-spacing:.16em;color:rgba(245,245,244,.38)}
+.term{position:absolute;right:64px;top:62px;width:430px;border-radius:16px;background:#141416;box-shadow:0 30px 60px -20px rgba(0,0,0,.45),0 0 0 1px rgba(255,255,255,.08);overflow:hidden}
+.tbar{height:34px;display:flex;align-items:center;gap:8px;padding:0 14px;border-bottom:1px solid rgba(255,255,255,.08)}
+.tbar b{width:11px;height:11px;border-radius:50%;background:#ff5f57} .tbar b:nth-child(2){background:#febc2e} .tbar b:nth-child(3){background:#28c840}
+.tbar span{margin-left:auto;font-size:11px;color:rgba(255,255,255,.35)}
+pre{padding:18px 20px 20px;font:13.5px/1.75 ui-monospace,"SF Mono",Menlo,monospace;color:rgba(255,255,255,.82);white-space:pre}
+.p{color:#fa4c03} .m{color:rgba(255,255,255,.4)} .ok{color:#3ddc84} .cur{display:inline-block;width:8px;height:16px;background:#fa4c03;vertical-align:-3px}
+</style></head><body><div class="grid"></div><div class="glow"></div>
+<div class="izq"><div class="kicker mono"><i></i>VARELIUU · SOFTWARE STUDIO</div>
+<h1>Bruno Varela</h1><h2>Developer + AI, <span class="ser">untangled</span></h2>
+<div class="pie mono">WEB · APPS · CUSTOM SOFTWARE · OPEN SOURCE</div></div>
+<div class="term"><div class="tbar"><b></b><b></b><b></b><span class="mono">~/vareliuu — claude</span></div>
+<pre><span class="p">❯</span> claude
+<span class="m">  Build a booking system for a dental clinic:</span>
+<span class="m">  calendar, WhatsApp reminders, admin panel.</span>
+
+<span class="ok">✓</span> Schema, auth and admin panel
+<span class="ok">✓</span> Calendar + WhatsApp reminders
+<span class="ok">✓</span> Deployed to production
+<span class="p">❯</span> <span class="cur"></span></pre></div>
+</body></html>
